@@ -76,8 +76,6 @@ public class Firewall {
 			if(input_value>=start_value && input_value<=end_value)
 				return true;
 		}
-		System.out.println("Input : "+input);
-		System.out.println("Rule : "+rule);
 		return false;
 	}
 	
