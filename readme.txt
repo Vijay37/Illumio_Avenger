@@ -8,7 +8,7 @@ This project is a coding assignment given to me by Illumio. It is a simplified m
 Project Summary
 1. I have spent around 15 mins prior to code on documenting the deliverables, assumptions and algorithm. 
 2. These details can be found in the folder called files :
-Documentation file path: files/documentation.pdf
+Documentation file path: files/Illumio Coding Assignment-Documentation.pdf
 3. Later it took me close to one hour to implement the code and test various test cases
 4. I have created a data file called illumio_data.csv (Can be found in files folder) with dataset of 700 entries
 
